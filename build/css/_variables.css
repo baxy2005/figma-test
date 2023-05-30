@@ -1,0 +1,72 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 26 May 2023 17:02:45 GMT
+ */
+
+:root {
+  --sd-ids-smc-icons-filled-add: <span class="material-icons">add</span>;
+  --sd-ids-smc-icons-filled-user: <span class="material-icons">person</span>;
+  --sd-ids-smc-icons-filled-done: <span class="material-icons">done</span>;
+  --sd-ids-smc-icons-filled-close: <span class="material-icons">highlight_off</span>;
+  --sd-ids-smc-icons-filled-search: <span class="material-icons">search</span>;
+  --sd-ids-smc-icons-filled-chevron-down: <span class="material-icons">expand_more</span>;
+  --sd-ids-smc-icons-filled-chevron-right: <span class="material-icons">chevron_right</span>;
+  --sd-ids-smc-icons-filled-chevron-left: <span class="material-icons">chevron_left</span>;
+  --sd-ids-smc-icons-filled-chevron-up: <span class="material-icons">expand_less</span>;
+  --sd-ids-smc-icons-filled-edit: <span class="material-icons">edit</span>;
+  --sd-ids-smc-icons-filled-delete: <span class="material-icons">delete</span>;
+  --sd-ids-smc-icons-filled-info: <span class="material-icons">info</span>;
+  --sd-ids-smc-icons-filled-favorite: <span class="material-icons">favorite</span>;
+  --sd-ids-smc-icons-filled-share: <span class="material-icons">share</span>;
+  --sd-ids-smc-icons-filled-attach-file: <span class="material-icons">attach_file</span>;
+  --sd-ids-smc-icons-filled-settings: <span class="material-icons">settings</span>;
+  --sd-ids-smc-icons-filled-notifications: <span class="material-icons">notifications</span>;
+  --sd-ids-smc-icons-filled-cloud-upload: <span class="material-icons">cloud_upload</span>;
+  --sd-ids-smc-icons-filled-cloud-download: <span class="material-icons">cloud_download</span>;
+  --sd-ids-smc-icons-filled-menu: <span class="material-icons">menu</span>;
+  --sd-ids-smc-icons-filled-keyboard-arrow-up: <span class="material-icons">keyboard_arrow_up</span>;
+  --sd-ids-smc-icons-filled-keyboard-arrow-down: <span class="material-icons">keyboard_arrow_down</span>;
+  --sd-ids-smc-icons-filled-fullscreen: <span class="material-icons">fullscreen</span>;
+  --sd-ids-smc-icons-filled-fullscreen-exit: <span class="material-icons">fullscreen_exit</span>;
+  --sd-ids-smc-icons-filled-check-circle: <span class="material-icons">check_circle</span>;
+  --sd-ids-smc-icons-filled-cancel: <span class="material-icons">cancel</span>;
+  --sd-ids-smc-icons-filled-volume-up: <span class="material-icons">volume_up</span>;
+  --sd-ids-smc-icons-filled-volume-off: <span class="material-icons">volume_off</span>;
+  --sd-ids-smc-icons-filled-refresh: <span class="material-icons">refresh</span>;
+  --sd-ids-smc-icons-filled-account-circle: <span class="material-icons">account_circle</span>;
+  --sd-ids-smc-icons-filled-error: <span class="material-icons">error</span>;
+  --sd-ids-smc-icons-filled-warning: <span class="material-icons">warning</span>;
+  --sd-ids-smc-icons-filled-bookmark: <span class="material-icons">bookmark</span>;
+  --sd-ids-smc-icons-filled-undo: <span class="material-icons">undo</span>;
+  --sd-ids-smc-icons-filled-redo: <span class="material-icons">redo</span>;
+  --sd-ids-smc-icons-filled-print: <span class="material-icons">print</span>;
+  --sd-ids-smc-icons-filled-code: <span class="material-icons">code</span>;
+  --sd-ids-smc-icons-filled-mail: <span class="material-icons">mail</span>;
+  --sd-ids-smc-icons-filled-phone: <span class="material-icons">phone</span>;
+  --sd-ids-smc-icons-filled-lock: <span class="material-icons">lock</span>;
+  --sd-ids-smc-icons-filled-home: <span class="material-icons">home</span>;
+  --sd-ids-smc-icons-filled-stars: <span class="material-icons">stars</span>;
+  --sd-ids-smc-icons-filled-attach-email: <span class="material-icons">attach_email</span>;
+  --sd-ids-smc-icons-filled-book: <span class="material-icons">book</span>;
+  --sd-ids-smc-icons-filled-calendar-today: <span class="material-icons">calendar</span>;
+  --sd-ids-smc-icons-filled-flag: <span class="material-icons">flag</span>;
+  --sd-ids-smc-icons-filled-language: <span class="material-icons">language</span>;
+  --sd-ids-smc-icons-filled-arrow-forward: <span class="material-icons">arrow_forward</span>;
+  --sd-ids-smc-icons-filled-arrow-back: <span class="material-icons">arrow_back</span>;
+  --sd-ids-smc-icons-filled-cloud: <span class="material-icons">cloud</span>;
+  --sd-ids-smc-icons-filled-palette: <span class="material-icons">palette</span>;
+  --sd-ids-smc-icons-filled-camera: <span class="material-icons">camera</span>;
+  --sd-ids-smc-icons-filled-attach: <span class="material-icons">attach_file</span>;
+  --sd-ids-smc-icons-filled-layers: <span class="material-icons">layers</span>;
+  --sd-ids-smc-icons-filled-shopping-cart: <span class="material-icons">shopping_cart</span>;
+  --sd-ids-smc-icons-filled-mic: <span class="material-icons">mic</span>;
+  --sd-ids-smc-icons-filled-headset: <span class="material-icons">headset</span>;
+  --sd-ids-smc-icons-filled-timer: <span class="material-icons">timer</span>;
+  --sd-ids-smc-icons-filled-grade: <span class="material-icons">grade</span>;
+  --sd-ids-smc-icons-filled-event: <span class="material-icons">event</span>;
+  --sd-ids-smc-icons-filled-lightbulb: <span class="material-icons">lightbulb</span>;
+  --sd-ids-smc-icons-filled-location-on: <span class="material-icons">location_on</span>;
+  --sd-ids-smc-icons-filled-credit-card: <span class="material-icons">credit_card</span>;
+  --sd-ids-smc-icons-filled-group: <span class="material-icons">group</span>;
+  --sd-ids-smc-icons-filled-battery-charging-full: <span class="material-icons">battery_charging</span>;
+}
