@@ -4,23 +4,23 @@
       "page": {
         "surface": {
           "surface-dim": {
-            "value": "{ids.smc.color.surface.neutral.80}",
+            "value": "{ids.smc.color.interface.neutral.80}",
             "type": "color"
           },
           "surface": {
-            "value": "{ids.smc.color.surface.neutral.99}",
+            "value": "{ids.smc.color.interface.neutral.99}",
             "type": "color"
           },
           "surface-bright": {
-            "value": "{ids.smc.color.surface.neutral.99}",
+            "value": "{ids.smc.color.interface.neutral.99}",
             "type": "color"
           },
           "on-surface": {
-            "value": "{ids.smc.color.surface.neutral.10}",
+            "value": "{ids.smc.color.interface.neutral.10}",
             "type": "color"
           },
           "on-surface-variant": {
-            "value": "{ids.smc.color.surface.neutral.40}",
+            "value": "{ids.smc.color.interface.neutral.40}",
             "type": "color"
           }
         }
@@ -28,23 +28,23 @@
       "container": {
         "surface": {
           "surface-lowest": {
-            "value": "{ids.smc.color.surface.neutral.100}",
+            "value": "{ids.smc.color.interface.neutral.100}",
             "type": "color"
           },
           "surface-low": {
-            "value": "{ids.smc.color.surface.neutral.99}",
+            "value": "{ids.smc.color.interface.neutral.99}",
             "type": "color"
           },
           "surface-medium": {
-            "value": "{ids.smc.color.surface.neutral.95}",
+            "value": "{ids.smc.color.interface.neutral.95}",
             "type": "color"
           },
           "surface-high": {
-            "value": "{ids.smc.color.surface.neutral.90}",
+            "value": "{ids.smc.color.interface.neutral.90}",
             "type": "color"
           },
           "surface-highest": {
-            "value": "{ids.smc.color.surface.neutral.80}",
+            "value": "{ids.smc.color.interface.neutral.80}",
             "type": "color"
           }
         },
@@ -164,23 +164,23 @@
       "selectable": {
         "surface": {
           "surface-lowest": {
-            "value": "{ids.smc.color.surface.neutral.100}",
+            "value": "{ids.smc.color.interface.neutral.100}",
             "type": "color"
           },
           "surface-low": {
-            "value": "{ids.smc.color.surface.neutral.99}",
+            "value": "{ids.smc.color.interface.neutral.99}",
             "type": "color"
           },
           "surface-medium": {
-            "value": "{ids.smc.color.surface.neutral.95}",
+            "value": "{ids.smc.color.interface.neutral.95}",
             "type": "color"
           },
           "surface-high": {
-            "value": "{ids.smc.color.surface.neutral.90}",
+            "value": "{ids.smc.color.interface.neutral.90}",
             "type": "color"
           },
           "surface-highest": {
-            "value": "{ids.smc.color.surface.neutral.80}",
+            "value": "{ids.smc.color.interface.neutral.80}",
             "type": "color"
           }
         },
