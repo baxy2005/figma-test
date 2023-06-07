@@ -162,28 +162,6 @@
         }
       },
       "selectable": {
-        "surface": {
-          "surface-lowest": {
-            "value": "{ids.smc.color.interface.neutral.100}",
-            "type": "color"
-          },
-          "surface-low": {
-            "value": "{ids.smc.color.interface.neutral.99}",
-            "type": "color"
-          },
-          "surface-medium": {
-            "value": "{ids.smc.color.interface.neutral.95}",
-            "type": "color"
-          },
-          "surface-high": {
-            "value": "{ids.smc.color.interface.neutral.90}",
-            "type": "color"
-          },
-          "surface-highest": {
-            "value": "{ids.smc.color.interface.neutral.80}",
-            "type": "color"
-          }
-        },
         "primary": {
           "primary": {
             "value": "{ids.smc.color.accent.primary.60}",
