@@ -53,9 +53,35 @@
             "value": "{ids.smc.color.accent.primary.90}",
             "type": "color"
           },
+          "primary-container-copy": {
+            "value": "{ids.smc.color.accent.primary.60}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{ids.smc.color.modifiers.luminosity.700}",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
           "on-primary-container": {
             "value": "{ids.smc.color.accent.primary.20}",
             "type": "color"
+          },
+          "on-primary-container-copy": {
+            "value": "{ids.smc.color.accent.primary.60}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{ids.smc.color.modifiers.luminosity.500}",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "primary-outline": {
             "value": "{ids.smc.color.accent.primary.20}",
@@ -163,7 +189,7 @@
       },
       "selectable": {
         "primary": {
-          "primary": {
+          "primary-default": {
             "value": "{ids.smc.color.accent.primary.60}",
             "type": "color"
           },
@@ -177,7 +203,7 @@
           }
         },
         "secondary": {
-          "secondary": {
+          "secondary-default": {
             "value": "{ids.smc.color.accent.secondary.60}",
             "type": "color"
           },
@@ -191,7 +217,7 @@
           }
         },
         "tertiary": {
-          "tertiary": {
+          "tertiary-default": {
             "value": "{ids.smc.color.accent.tertiary.60}",
             "type": "color"
           },
@@ -205,7 +231,7 @@
           }
         },
         "brand": {
-          "brand": {
+          "brand-default": {
             "value": "{ids.smc.color.accent.brand.60}",
             "type": "color"
           },
@@ -219,7 +245,7 @@
           }
         },
         "error": {
-          "error": {
+          "error-default": {
             "value": "{ids.smc.color.feedback.error.60}",
             "type": "color"
           },
@@ -233,7 +259,7 @@
           }
         },
         "success": {
-          "success": {
+          "success-default": {
             "value": "{ids.smc.color.feedback.success.60}",
             "type": "color"
           },
@@ -247,7 +273,7 @@
           }
         },
         "warning": {
-          "warning": {
+          "warning-default": {
             "value": "{ids.smc.color.feedback.warning.50}",
             "type": "color"
           },

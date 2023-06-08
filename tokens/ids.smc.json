@@ -1624,6 +1624,46 @@
               "type": "color"
             }
           }
+        },
+        "modifiers": {
+          "luminosity": {
+            "100": {
+              "value": ".1",
+              "type": "other"
+            },
+            "200": {
+              "value": ".2",
+              "type": "other"
+            },
+            "300": {
+              "value": ".3",
+              "type": "other"
+            },
+            "400": {
+              "value": ".4",
+              "type": "other"
+            },
+            "500": {
+              "value": ".5",
+              "type": "other"
+            },
+            "600": {
+              "value": ".6",
+              "type": "other"
+            },
+            "700": {
+              "value": ".7",
+              "type": "other"
+            },
+            "800": {
+              "value": ".8",
+              "type": "other"
+            },
+            "900": {
+              "value": ".9",
+              "type": "other"
+            }
+          }
         }
       },
       "unsplash": {
