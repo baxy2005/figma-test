@@ -3,6 +3,11 @@
     "Core (Tailwind)",
     "ids.base",
     "ids.smc",
-    "ids.light"
+    "ids.light",
+    "ids.components/buttons/filled",
+    "ids.components/buttons/outlined",
+    "ids.components/buttons/elevated",
+    "ids.components/buttons/text",
+    "ids.components/text-fields"
   ]
 }

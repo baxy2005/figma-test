@@ -1,0 +1,29 @@
+{
+  "ids": {
+    "comp": {
+      "button": {
+        "color": {
+          "primary": {
+            "enabled-bg": {
+              "value": "{ids.light.selectable.primary.primary-default}",
+              "type": "color"
+            },
+            "hovered-bg": {
+              "value": "{ids.comp.button.color.primary.enabled-bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{ids.smc.color.modifiers.luminosity.100}",
+                    "space": "hsl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
