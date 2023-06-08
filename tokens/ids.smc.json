@@ -1665,8 +1665,26 @@
             }
           },
           "button": {
-            "hover-lightness": {
+            "hovered-lightness": {
               "value": "{ids.smc.color.modifiers.luminosity.100}",
+              "type": "other"
+            },
+            "focused-lightness": {
+              "value": "{ids.smc.color.modifiers.luminosity.100}",
+              "type": "other"
+            },
+            "pressed-lightness": {
+              "value": "{ids.smc.color.modifiers.luminosity.100}",
+              "type": "other"
+            }
+          },
+          "alpha": {
+            "disabled": {
+              "value": "0.12",
+              "type": "other"
+            },
+            "enabled": {
+              "value": "1",
               "type": "other"
             }
           }

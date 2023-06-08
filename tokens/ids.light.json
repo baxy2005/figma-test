@@ -15,6 +15,10 @@
             "value": "{ids.smc.color.interface.neutral.99}",
             "type": "color"
           },
+          "surface-inverese": {
+            "value": "{ids.smc.color.interface.neutral.10}",
+            "type": "color"
+          },
           "on-surface": {
             "value": "{ids.smc.color.interface.neutral.10}",
             "type": "color"
