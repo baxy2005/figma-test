@@ -3,13 +3,13 @@
     "comp": {
       "button": {
         "color": {
-          "primary": {
+          "success": {
             "enabled-bg": {
-              "value": "{ids.light.selectable.primary.primary-default}",
+              "value": "{ids.light.selectable.success.success-default}",
               "type": "color"
             },
             "hovered-bg": {
-              "value": "{ids.comp.button.color.primary.enabled-bg}",
+              "value": "{ids.comp.button.color.success.enabled-bg}",
               "type": "color",
               "$extensions": {
                 "studio.tokens": {
@@ -22,7 +22,7 @@
               }
             },
             "focused-bg": {
-              "value": "{ids.comp.button.color.primary.enabled-bg}",
+              "value": "{ids.comp.button.color.success.enabled-bg}",
               "type": "color",
               "$extensions": {
                 "studio.tokens": {
@@ -35,7 +35,7 @@
               }
             },
             "pressed-bg": {
-              "value": "{ids.comp.button.color.primary.enabled-bg}",
+              "value": "{ids.comp.button.color.success.enabled-bg}",
               "type": "color",
               "$extensions": {
                 "studio.tokens": {
@@ -47,34 +47,8 @@
                 }
               }
             },
-            "on-disabled": {
-              "value": "{ids.light.page.surface.on-surface}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "lighten",
-                    "value": "{ids.smc.color.modifiers.alpha.on-disabled}",
-                    "space": "hsl"
-                  }
-                }
-              }
-            },
-            "disabled-bg": {
-              "value": "{ids.light.page.surface.surface-inverese}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "{ids.smc.color.modifiers.alpha.disabled}",
-                    "space": "hsl"
-                  }
-                }
-              }
-            },
             "on-enabled": {
-              "value": "{ids.light.selectable.primary.on-primary}",
+              "value": "{ids.light.selectable.success.on-success}",
               "type": "color"
             }
           }

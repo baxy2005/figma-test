@@ -200,22 +200,14 @@
           "on-primary": {
             "value": "{ids.smc.color.accent.primary.100}",
             "type": "color"
-          },
-          "primary-outline": {
-            "value": "{ids.smc.color.accent.primary.20}",
-            "type": "color"
           }
         },
         "secondary": {
           "secondary-default": {
-            "value": "{ids.smc.color.accent.secondary.60}",
-            "type": "color"
-          },
-          "on-secondary": {
             "value": "{ids.smc.color.accent.secondary.100}",
             "type": "color"
           },
-          "secondary-outline": {
+          "on-secondary": {
             "value": "{ids.smc.color.accent.secondary.20}",
             "type": "color"
           }
