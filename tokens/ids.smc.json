@@ -1685,6 +1685,42 @@
             },
             "outline": {
               "hovered-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.800}",
+                "type": "other"
+              },
+              "focused-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.800}",
+                "type": "other"
+              },
+              "pressed-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.600}",
+                "type": "other"
+              },
+              "outline-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.400}",
+                "type": "other"
+              },
+              "on-inverse": {
+                "value": "{ids.smc.color.modifiers.luminosity.300}",
+                "type": "other"
+              }
+            },
+            "text": {
+              "hovered-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.900}",
+                "type": "other"
+              },
+              "focused-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.900}",
+                "type": "other"
+              },
+              "pressed-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.200}",
+                "type": "other"
+              }
+            },
+            "elevated": {
+              "hovered-lightness": {
                 "value": "{ids.smc.color.modifiers.luminosity.100}",
                 "type": "other"
               },
@@ -1693,11 +1729,7 @@
                 "type": "other"
               },
               "pressed-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.200}",
-                "type": "other"
-              },
-              "outline-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.400}",
+                "value": "{ids.smc.color.modifiers.luminosity.800}",
                 "type": "other"
               }
             }
@@ -1713,6 +1745,10 @@
             },
             "enabled": {
               "value": "1",
+              "type": "other"
+            },
+            "transparent": {
+              "value": "0",
               "type": "other"
             }
           },
@@ -1747,6 +1783,22 @@
           "md": {
             "value": "{ids.base.border-width.20}",
             "type": "borderWidth"
+          }
+        }
+      },
+      "box-shadow": {
+        "selectable": {
+          "xs": {
+            "value": "{ids.base.box-shadow.blurry.5}",
+            "type": "boxShadow"
+          },
+          "sm": {
+            "value": "{ids.base.box-shadow.blurry.10}",
+            "type": "boxShadow"
+          },
+          "md": {
+            "value": "{ids.base.box-shadow.blurry.20}",
+            "type": "boxShadow"
           }
         }
       }

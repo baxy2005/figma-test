@@ -4,12 +4,17 @@
     "ids.base",
     "ids.smc",
     "ids.light",
-    "ids.components/buttons/filled",
-    "ids.components/buttons/outlined",
+    "ids.components/buttons/filled/primary",
+    "ids.components/buttons/filled/secondary",
+    "ids.components/buttons/filled/error",
+    "ids.components/buttons/filled/success",
+    "ids.components/buttons/filled/warning",
+    "ids.components/buttons/outlined/primary",
+    "ids.components/buttons/outlined/secondary",
+    "ids.components/buttons/outlined/tertiary",
+    "ids.components/buttons/outlined/error",
     "ids.components/buttons/elevated",
     "ids.components/buttons/text",
-    "ids.components/buttons/error",
-    "ids.components/buttons/success",
     "ids.components/text-fields"
   ]
 }

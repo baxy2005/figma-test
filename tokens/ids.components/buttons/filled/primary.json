@@ -2,62 +2,92 @@
   "ids": {
     "comp": {
       "button": {
-        "secondary": {
+        "filled": {
           "color": {
-            "text": {
+            "primary": {
               "enabled-bg": {
-                "value": "{ids.base.color.white}",
+                "value": "{ids.light.selectable.primary.primary-default}",
+                "type": "color"
+              },
+              "enabled-outline": {
+                "value": "{ids.comp.button.filled.color.primary.enabled-bg}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "alpha",
-                      "value": "{ids.smc.color.modifiers.alpha.transparent}",
-                      "space": "lch"
+                      "type": "darken",
+                      "value": "{ids.smc.color.modifiers.button.filled.border-mix}",
+                      "space": "hsl"
                     }
                   }
                 }
               },
               "hovered-bg": {
-                "value": "{ids.comp.button.outlined.color.primary.on-enabled}",
+                "value": "{ids.comp.button.filled.color.primary.enabled-bg}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
                       "type": "lighten",
-                      "value": "{ids.smc.color.modifiers.button.text.hovered-lightness} ",
+                      "value": "{ids.smc.color.modifiers.button.filled.hovered-lightness}",
                       "space": "hsl"
                     }
                   }
                 }
               },
               "focused-bg": {
-                "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+                "value": "{ids.comp.button.filled.color.primary.enabled-bg}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "darken",
-                      "value": "{ids.smc.color.modifiers.button.text.focused-lightness} ",
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.button.filled.focused-lightness} ",
                       "space": "hsl"
                     }
                   }
                 }
               },
               "pressed-bg": {
-                "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+                "value": "{ids.comp.button.filled.color.primary.enabled-bg}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
                       "type": "darken",
-                      "value": "{ids.smc.color.modifiers.button.text.pressed-lightness} ",
+                      "value": "{ids.smc.color.modifiers.button.filled.focused-lightness} ",
                       "space": "hsl"
                     }
                   }
                 }
               },
-              "disable-bg": {
+              "on-disabled": {
+                "value": "{ids.light.page.surface.on-surface}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.alpha.on-disabled}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "disabled-bg": {
+                "value": "{ids.light.page.surface.surface-inverese}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "{ids.smc.color.modifiers.alpha.disabled}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "disabled-outline": {
                 "value": "{ids.light.page.surface.surface-inverese}",
                 "type": "color",
                 "$extensions": {
@@ -71,21 +101,8 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.secondary.on-secondary-inverese}",
+                "value": "{ids.light.selectable.primary.on-primary}",
                 "type": "color"
-              },
-              "on-disabled": {
-                "value": "{ids.light.page.surface.on-surface}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {
-                    "modify": {
-                      "type": "lighten",
-                      "value": "{ids.smc.color.modifiers.alpha.on-disabled}",
-                      "space": "lch"
-                    }
-                  }
-                }
               }
             }
           }

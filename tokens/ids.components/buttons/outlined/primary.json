@@ -1,0 +1,122 @@
+{
+  "ids": {
+    "comp": {
+      "button": {
+        "outlined": {
+          "color": {
+            "primary": {
+              "enabled-bg": {
+                "value": "{ids.base.color.white}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "{ids.smc.color.modifiers.alpha.transparent}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "outline": {
+                "value": "{ids.light.selectable.primary.on-primary-inverese}",
+                "type": "color"
+              },
+              "disable-outline": {
+                "value": "ids.comp.button.color.secondary.outline",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.alpha.disabled}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "hovered-bg": {
+                "value": "{ids.comp.button.outlined.color.primary.outline}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.button.outline.hovered-lightness} ",
+                      "space": "lch"
+                    }
+                  }
+                }
+              },
+              "focused-bg": {
+                "value": "{ids.comp.button.outlined.color.primary.outline}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.button.outline.focused-lightness} ",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "pressed-bg": {
+                "value": "{ids.comp.button.outlined.color.primary.outline}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.button.outline.pressed-lightness} ",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "on-disabled": {
+                "value": "{ids.light.page.surface.on-surface}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "lighten",
+                      "value": "{ids.smc.color.modifiers.alpha.on-disabled}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "disabled-outline": {
+                "value": "{ids.light.page.surface.surface-inverese}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "{ids.smc.color.modifiers.alpha.disabled}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              },
+              "on-enabled": {
+                "value": "{ids.light.selectable.primary.on-primary-inverese}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "darken",
+                      "value": "{ids.smc.color.modifiers.button.outline.on-inverse}",
+                      "space": "hsl"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

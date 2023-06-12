@@ -1,1 +1,85 @@
-{}
+{
+  "ids": {
+    "comp": {
+      "button": {
+        "color": {
+          "elevated": {
+            "eanble-bg": {
+              "value": "{ids.light.container.surface.surface-low}",
+              "type": "color"
+            },
+            "on-eanble": {
+              "value": "{ids.light.selectable.secondary.on-secondary}",
+              "type": "color"
+            },
+            "hovered-bg": {
+              "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{ids.smc.color.modifiers.button.elevated.hovered-lightness} ",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "focused-bg": {
+              "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{ids.smc.color.modifiers.button.elevated.focused-lightness} ",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "pressed-bg": {
+              "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{ids.smc.color.modifiers.button.elevated.pressed-lightness} ",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "disabled-bg": {
+              "value": "{ids.light.page.surface.surface-inverese}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{ids.smc.color.modifiers.alpha.disabled}",
+                    "space": "hsl"
+                  }
+                }
+              }
+            },
+            "on-disabled": {
+              "value": "{ids.light.page.surface.on-surface}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "{ids.smc.color.modifiers.alpha.on-disabled}",
+                    "space": "hsl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
