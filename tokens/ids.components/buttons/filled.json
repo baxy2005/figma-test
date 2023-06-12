@@ -8,6 +8,19 @@
               "value": "{ids.light.selectable.primary.primary-default}",
               "type": "color"
             },
+            "enabled-outline": {
+              "value": "{ids.light.selectable.primary.primary-default}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{ids.smc.color.modifiers.button.filled.border-mix}",
+                    "space": "hsl"
+                  }
+                }
+              }
+            },
             "hovered-bg": {
               "value": "{ids.comp.button.color.primary.enabled-bg}",
               "type": "color",
@@ -61,6 +74,19 @@
               }
             },
             "disabled-bg": {
+              "value": "{ids.light.page.surface.surface-inverese}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{ids.smc.color.modifiers.alpha.disabled}",
+                    "space": "hsl"
+                  }
+                }
+              }
+            },
+            "disabled-outline": {
               "value": "{ids.light.page.surface.surface-inverese}",
               "type": "color",
               "$extensions": {

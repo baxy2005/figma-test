@@ -1677,6 +1677,10 @@
               "pressed-lightness": {
                 "value": "{ids.smc.color.modifiers.luminosity.100}",
                 "type": "other"
+              },
+              "border-mix": {
+                "value": "{ids.smc.color.modifiers.delta.mix-delta}",
+                "type": "other"
               }
             },
             "outline": {
@@ -1693,7 +1697,7 @@
                 "type": "other"
               },
               "outline-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.300}",
+                "value": "{ids.smc.color.modifiers.luminosity.400}",
                 "type": "other"
               }
             }
@@ -1709,6 +1713,12 @@
             },
             "enabled": {
               "value": "1",
+              "type": "other"
+            }
+          },
+          "delta": {
+            "mix-delta": {
+              "value": "0.2",
               "type": "other"
             }
           }
