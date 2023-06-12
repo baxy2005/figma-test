@@ -10,6 +10,7 @@
     "ids.components/buttons/text",
     "ids.components/buttons/error",
     "ids.components/buttons/success",
-    "ids.components/text-fields"
+    "ids.components/text-fields",
+    "playground/ids.smc"
   ]
 }
