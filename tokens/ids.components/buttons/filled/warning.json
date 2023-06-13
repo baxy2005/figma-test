@@ -6,7 +6,7 @@
           "color": {
             "warning": {
               "enabled-bg": {
-                "value": "{ids.light.selectable.warning.warning-default}",
+                "value": "{ids.light.color.selectable.warning.warning-default}",
                 "type": "color"
               },
               "hovered-bg": {
@@ -49,7 +49,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.warning.on-warning}",
+                "value": "{ids.light.color.selectable.warning.on-warning}",
                 "type": "color"
               }
             }

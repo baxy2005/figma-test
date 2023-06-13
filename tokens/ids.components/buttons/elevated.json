@@ -5,11 +5,11 @@
         "color": {
           "elevated": {
             "eanble-bg": {
-              "value": "{ids.light.container.surface.surface-low}",
+              "value": "{ids.light.color.container.surface.surface-low}",
               "type": "color"
             },
             "on-eanble": {
-              "value": "{ids.light.selectable.secondary.on-secondary}",
+              "value": "{ids.light.color.selectable.secondary.on-secondary}",
               "type": "color"
             },
             "hovered-bg": {
@@ -52,7 +52,7 @@
               }
             },
             "disabled-bg": {
-              "value": "{ids.light.page.surface.surface-inverese}",
+              "value": "{ids.light.color.page.surface.surface-inverese}",
               "type": "color",
               "$extensions": {
                 "studio.tokens": {
@@ -65,7 +65,7 @@
               }
             },
             "on-disabled": {
-              "value": "{ids.light.page.surface.on-surface}",
+              "value": "{ids.light.color.page.surface.on-surface}",
               "type": "color",
               "$extensions": {
                 "studio.tokens": {

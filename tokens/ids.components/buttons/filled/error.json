@@ -6,7 +6,7 @@
           "color": {
             "error": {
               "enabled-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.color.selectable.error.error-default}",
                 "type": "color"
               },
               "hovered-bg": {
@@ -49,7 +49,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.error.on-error}",
+                "value": "{ids.light.color.selectable.error.on-error}",
                 "type": "color"
               }
             }

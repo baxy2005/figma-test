@@ -19,11 +19,11 @@
                 }
               },
               "outline": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.color.selectable.error.error-default}",
                 "type": "color"
               },
               "hovered-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -36,7 +36,7 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -49,7 +49,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -62,7 +62,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.error.on-error-inverse}",
+                "value": "{ids.light.color.selectable.error.on-error-inverse}",
                 "type": "color"
               }
             }

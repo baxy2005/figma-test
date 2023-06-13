@@ -19,7 +19,7 @@
                 }
               },
               "outline": {
-                "value": "{ids.light.selectable.tertiary.tertiary-default}",
+                "value": "{ids.light.color.selectable.tertiary.tertiary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -45,7 +45,7 @@
                 }
               },
               "hovered-bg": {
-                "value": "{ids.light.selectable.tertiary.tertiary-default}",
+                "value": "{ids.light.color.selectable.tertiary.tertiary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -58,7 +58,7 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.light.selectable.tertiary.tertiary-default}",
+                "value": "{ids.light.color.selectable.tertiary.tertiary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -71,7 +71,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.light.selectable.tertiary.tertiary-default}",
+                "value": "{ids.light.color.selectable.tertiary.tertiary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -84,7 +84,7 @@
                 }
               },
               "on-disabled": {
-                "value": "{ids.light.page.surface.on-surface}",
+                "value": "{ids.light.color.page.surface.on-surface}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -97,7 +97,7 @@
                 }
               },
               "disabled-outline": {
-                "value": "{ids.light.page.surface.surface-inverese}",
+                "value": "{ids.light.color.page.surface.surface-inverese}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -110,7 +110,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.tertiary.on-tertiary-inverse}",
+                "value": "{ids.light.color.selectable.tertiary.on-tertiary-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {

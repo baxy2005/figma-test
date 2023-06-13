@@ -19,11 +19,11 @@
                 }
               },
               "outline": {
-                "value": "{ids.light.selectable.success.success-default}",
+                "value": "{ids.light.color.selectable.success.success-default}",
                 "type": "color"
               },
               "hovered-bg": {
-                "value": "{ids.light.selectable.success.success-default}",
+                "value": "{ids.light.color.selectable.success.success-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -36,7 +36,7 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.light.selectable.success.success-default}",
+                "value": "{ids.light.color.selectable.success.success-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -49,7 +49,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.light.selectable.success.success-default}",
+                "value": "{ids.light.color.selectable.success.success-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -62,7 +62,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.success.on-success-inverse}",
+                "value": "{ids.light.color.selectable.success.on-success-inverse}",
                 "type": "color"
               }
             }
