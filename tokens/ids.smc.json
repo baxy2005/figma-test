@@ -1707,15 +1707,19 @@
             },
             "text": {
               "hovered-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.900}",
+                "value": "{ids.smc.color.modifiers.luminosity.800}",
                 "type": "other"
               },
               "focused-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.900}",
+                "value": "{ids.smc.color.modifiers.luminosity.800}",
                 "type": "other"
               },
               "pressed-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.200}",
+                "value": "{ids.smc.color.modifiers.luminosity.600}",
+                "type": "other"
+              },
+              "on-inverse": {
+                "value": "{ids.smc.color.modifiers.luminosity.300}",
                 "type": "other"
               }
             },

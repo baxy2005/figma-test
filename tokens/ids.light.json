@@ -258,7 +258,7 @@
             "type": "color"
           },
           "on-error-inverse": {
-            "value": "{ids.smc.color.feedback.error.60}",
+            "value": "{ids.light.selectable.error.error-default}",
             "type": "color"
           }
         },
@@ -271,8 +271,8 @@
             "value": "{ids.smc.color.feedback.success.100}",
             "type": "color"
           },
-          "success-outline": {
-            "value": "{ids.smc.color.feedback.success.20}",
+          "on-success-inverse": {
+            "value": "{ids.light.selectable.success.success-default}",
             "type": "color"
           }
         },
@@ -285,8 +285,8 @@
             "value": "{ids.smc.color.feedback.warning.100}",
             "type": "color"
           },
-          "warning-outline": {
-            "value": "{ids.smc.color.feedback.warning.20}",
+          "on-warning-inverse": {
+            "value": "{ids.light.selectable.warning.warning-default}",
             "type": "color"
           }
         }

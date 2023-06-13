@@ -4,7 +4,7 @@
       "button": {
         "outlined": {
           "color": {
-            "error": {
+            "warning": {
               "enabled-bg": {
                 "value": "{ids.base.color.white}",
                 "type": "color",
@@ -19,11 +19,11 @@
                 }
               },
               "outline": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.selectable.warning.warning-default}",
                 "type": "color"
               },
               "hovered-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.selectable.warning.warning-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -36,7 +36,7 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.selectable.warning.warning-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -49,7 +49,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.light.selectable.error.error-default}",
+                "value": "{ids.light.selectable.warning.warning-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -62,7 +62,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.error.on-error-inverse}",
+                "value": "{ids.light.selectable.warning.on-warning-inverse}",
                 "type": "color"
               }
             }

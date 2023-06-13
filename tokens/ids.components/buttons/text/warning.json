@@ -2,7 +2,7 @@
   "ids": {
     "comp": {
       "button": {
-        "secondary": {
+        "warning": {
           "color": {
             "text": {
               "enabled-bg": {
@@ -19,7 +19,7 @@
                 }
               },
               "hovered-bg": {
-                "value": "{ids.comp.button.outlined.color.primary.on-enabled}",
+                "value": "{ids.light.selectable.warning.on-warning-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -32,12 +32,12 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+                "value": "{ids.light.selectable.warning.on-warning-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "darken",
+                      "type": "lighten",
                       "value": "{ids.smc.color.modifiers.button.text.focused-lightness} ",
                       "space": "hsl"
                     }
@@ -45,14 +45,14 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.comp.button.outlined.color.primary.enabled-bg}",
+                "value": "{ids.light.selectable.warning.on-warning-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "darken",
+                      "type": "lighten",
                       "value": "{ids.smc.color.modifiers.button.text.pressed-lightness} ",
-                      "space": "hsl"
+                      "space": "lch"
                     }
                   }
                 }
@@ -71,8 +71,17 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.selectable.secondary.on-secondary-inverese}",
-                "type": "color"
+                "value": "{ids.light.selectable.warning.on-warning-inverse}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "darken",
+                      "value": "{ids.smc.color.modifiers.button.text.on-inverse}",
+                      "space": "hsl"
+                    }
+                  }
+                }
               },
               "on-disabled": {
                 "value": "{ids.light.page.surface.on-surface}",

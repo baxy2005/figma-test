@@ -16,7 +16,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "lighten",
-                      "value": "{ids.smc.color.modifiers.button.filled.focused-lightness}",
+                      "value": "{ids.smc.color.modifiers.button.filled.hovered-lightness}",
                       "space": "hsl"
                     }
                   }

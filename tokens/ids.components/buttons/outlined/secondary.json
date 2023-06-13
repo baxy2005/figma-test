@@ -19,7 +19,7 @@
                 }
               },
               "outline": {
-                "value": "{ids.light.selectable.secondary.on-secondary-inverese}",
+                "value": "{ids.light.selectable.secondary.secondary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -45,20 +45,20 @@
                 }
               },
               "hovered-bg": {
-                "value": "{ids.comp.button.outlined.color.secondary.outline}",
+                "value": "{ids.light.selectable.secondary.secondary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
                       "type": "lighten",
                       "value": "{ids.smc.color.modifiers.button.outline.hovered-lightness} ",
-                      "space": "lch"
+                      "space": "hsl"
                     }
                   }
                 }
               },
               "focused-bg": {
-                "value": "{ids.comp.button.outlined.color.secondary.outline}",
+                "value": "{ids.light.selectable.secondary.secondary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -71,7 +71,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.comp.button.outlined.color.secondary.outline}",
+                "value": "{ids.light.selectable.secondary.secondary-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
