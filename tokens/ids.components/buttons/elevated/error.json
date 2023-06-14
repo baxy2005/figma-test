@@ -6,7 +6,7 @@
           "color": {
             "error": {
               "eanble-bg": {
-                "value": "{ids.light.color.selectable.error.error-default}",
+                "value": "{ids.smc.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -19,11 +19,11 @@
                 }
               },
               "on-eanble": {
-                "value": "{ids.light.color.selectable.error.on-error-inverse}",
+                "value": "{ids.smc.color.selectable.error.on-error-inverse}",
                 "type": "color"
               },
               "hovered-bg": {
-                "value": "{ids.light.color.selectable.error.error-default}",
+                "value": "{ids.smc.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -36,7 +36,7 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.light.color.selectable.error.error-default}",
+                "value": "{ids.smc.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -49,7 +49,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.light.color.selectable.error.error-default}",
+                "value": "{ids.smc.color.selectable.error.error-default}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -62,7 +62,7 @@
                 }
               },
               "disabled-bg": {
-                "value": "{ids.light.color.page.surface.surface-inverese}",
+                "value": "{ids.smc.color.page.surface.surface-inverese}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -75,7 +75,7 @@
                 }
               },
               "on-disabled": {
-                "value": "{ids.light.color.page.surface.on-surface}",
+                "value": "{ids.smc.color.page.surface.on-surface}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {

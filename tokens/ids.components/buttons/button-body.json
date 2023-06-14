@@ -28,7 +28,7 @@
         },
         "border-radius": {
           "xxl": {
-            "value": "{ids.base.border-radius.pill}",
+            "value": "{ids.smc.border-radius.full}",
             "type": "borderRadius"
           }
         },

@@ -19,7 +19,7 @@
                 }
               },
               "hovered-bg": {
-                "value": "{ids.light.color.selectable.success.on-success-inverse}",
+                "value": "{ids.smc.color.selectable.success.on-success-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -32,7 +32,7 @@
                 }
               },
               "focused-bg": {
-                "value": "{ids.light.color.selectable.success.on-success-inverse}",
+                "value": "{ids.smc.color.selectable.success.on-success-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -45,7 +45,7 @@
                 }
               },
               "pressed-bg": {
-                "value": "{ids.light.color.selectable.success.on-success-inverse}",
+                "value": "{ids.smc.color.selectable.success.on-success-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -58,7 +58,7 @@
                 }
               },
               "disable-bg": {
-                "value": "{ids.light.color.page.surface.surface-inverese}",
+                "value": "{ids.smc.color.page.surface.surface-inverese}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -71,7 +71,7 @@
                 }
               },
               "on-enabled": {
-                "value": "{ids.light.color.selectable.success.on-success-inverse}",
+                "value": "{ids.smc.color.selectable.success.on-success-inverse}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
@@ -84,7 +84,7 @@
                 }
               },
               "on-disabled": {
-                "value": "{ids.light.color.page.surface.on-surface}",
+                "value": "{ids.smc.color.page.surface.on-surface}",
                 "type": "color",
                 "$extensions": {
                   "studio.tokens": {
