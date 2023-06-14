@@ -1825,6 +1825,12 @@
             "type": "boxShadow"
           }
         }
+      },
+      "border-radius": {
+        "full": {
+          "value": "{ids.base.border-radius.pill}",
+          "type": "borderRadius"
+        }
       }
     },
     "sms": {

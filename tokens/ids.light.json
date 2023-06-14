@@ -760,11 +760,11 @@
         },
         "states": {
           "filled": {
-            "value": "{ids.base.color.black}",
+            "value": "{ids.base.color.white}",
             "type": "color"
           },
           "filled-inverse": {
-            "value": "{ids.base.color.white}",
+            "value": "{ids.base.color.black}",
             "type": "color"
           }
         }

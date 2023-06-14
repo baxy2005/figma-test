@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "comp": {
+      "button": {
+        "padding": {
+          "size": {
+            "lg": {
+              "space-x": {
+                "value": "{ids.base.spacing_5}",
+                "type": "spacing"
+              },
+              "space-y": {
+                "value": "{ids.base.spacing_10}",
+                "type": "spacing"
+              }
+            },
+            "md": {
+              "space-x": {
+                "value": "{ids.smc.space.padding.20}",
+                "type": "spacing"
+              },
+              "space-y": {
+                "value": "{ids.base.dimension.62}",
+                "type": "spacing"
+              }
+            }
+          }
+        },
+        "border-radius": {
+          "xxl": {
+            "value": "{ids.base.border-radius.pill}",
+            "type": "borderRadius"
+          }
+        },
+        "gap": {
+          "size": {
+            "sm": {
+              "value": "{ids.smc.space.gap.15}",
+              "type": "spacing"
+            }
+          }
+        }
+      }
+    }
+  }
+}
