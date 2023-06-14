@@ -15,9 +15,10 @@
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "lighten",
+                      "type": "mix",
                       "value": "{ids.smc.color.modifiers.button.filled.hovered-lightness}",
-                      "space": "hsl"
+                      "space": "hsl",
+                      "color": "{ids.light.color.states.filled}"
                     }
                   }
                 }
@@ -28,9 +29,10 @@
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "lighten",
+                      "type": "mix",
                       "value": "{ids.smc.color.modifiers.button.filled.focused-lightness} ",
-                      "space": "hsl"
+                      "space": "hsl",
+                      "color": "{ids.light.color.states.filled}"
                     }
                   }
                 }
@@ -41,9 +43,10 @@
                 "$extensions": {
                   "studio.tokens": {
                     "modify": {
-                      "type": "darken",
-                      "value": "{ids.smc.color.modifiers.button.filled.focused-lightness} ",
-                      "space": "hsl"
+                      "type": "mix",
+                      "value": "{ids.smc.color.modifiers.button.filled.pressed-lightness} ",
+                      "space": "hsl",
+                      "color": "{ids.light.color.states.filled-inverse}"
                     }
                   }
                 }

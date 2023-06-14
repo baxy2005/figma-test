@@ -1627,6 +1627,10 @@
         },
         "modifiers": {
           "luminosity": {
+            "50": {
+              "value": ".05",
+              "type": "other"
+            },
             "100": {
               "value": ".1",
               "type": "other"
@@ -1659,8 +1663,16 @@
               "value": ".8",
               "type": "other"
             },
+            "850": {
+              "value": ".85",
+              "type": "other"
+            },
             "900": {
               "value": ".9",
+              "type": "other"
+            },
+            "950": {
+              "value": ".95",
               "type": "other"
             }
           },
@@ -1675,7 +1687,7 @@
                 "type": "other"
               },
               "pressed-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.100}",
+                "value": "{ids.smc.color.modifiers.luminosity.200}",
                 "type": "other"
               },
               "border-mix": {
@@ -1724,12 +1736,16 @@
               }
             },
             "elevated": {
+              "enabled-lightness": {
+                "value": "{ids.smc.color.modifiers.luminosity.950}",
+                "type": "other"
+              },
               "hovered-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.100}",
+                "value": "{ids.smc.color.modifiers.luminosity.900}",
                 "type": "other"
               },
               "focused-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.100}",
+                "value": "{ids.smc.color.modifiers.luminosity.900}",
                 "type": "other"
               },
               "pressed-lightness": {

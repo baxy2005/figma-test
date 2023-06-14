@@ -43,7 +43,8 @@
                     "modify": {
                       "type": "lighten",
                       "value": "{ids.smc.color.modifiers.button.outline.hovered-lightness} ",
-                      "space": "lch"
+                      "space": "hsl",
+                      "color": "{ids.light.color.states.primary}"
                     }
                   }
                 }
@@ -56,7 +57,8 @@
                     "modify": {
                       "type": "lighten",
                       "value": "{ids.smc.color.modifiers.button.outline.focused-lightness} ",
-                      "space": "hsl"
+                      "space": "hsl",
+                      "color": "{ids.light.color.states.primary}"
                     }
                   }
                 }
