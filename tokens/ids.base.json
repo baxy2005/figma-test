@@ -1117,6 +1117,10 @@
           "value": "{ids.base.dimension.base} * 100",
           "type": "dimension"
         },
+        "112": {
+          "value": "{ids.base.dimension.base} * 112.5",
+          "type": "dimension"
+        },
         "125": {
           "value": "{ids.base.dimension.base} * 125",
           "type": "dimension"

@@ -1065,6 +1065,10 @@
               "value": "{ids.base.dimension.100}",
               "type": "sizing"
             },
+            "sm": {
+              "value": "{ids.base.dimension.112}",
+              "type": "sizing"
+            },
             "md": {
               "value": "{ids.base.dimension.150}",
               "type": "sizing"
@@ -2815,6 +2819,13 @@
               "value": {
                 "fontFamily": "{ids.smc.font-family.icon-filled}",
                 "fontSize": "{ids.base.font-size.scaled.100}"
+              },
+              "type": "typography"
+            },
+            "sm": {
+              "value": {
+                "fontFamily": "{ids.smc.font-family.icon-filled}",
+                "fontSize": "{ids.base.font-size.scaled.125}"
               },
               "type": "typography"
             },
