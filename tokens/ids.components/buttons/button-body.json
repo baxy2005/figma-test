@@ -6,11 +6,11 @@
           "size": {
             "lg": {
               "space-x": {
-                "value": "{ids.base.spacing_5}",
+                "value": "{ids.smc.space.padding.45}",
                 "type": "spacing"
               },
               "space-y": {
-                "value": "{ids.base.spacing_10}",
+                "value": "{ids.smc.space.gap.35}",
                 "type": "spacing"
               }
             },
