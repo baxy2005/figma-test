@@ -1639,6 +1639,10 @@
               "value": ".1",
               "type": "other"
             },
+            "150": {
+              "value": ".15",
+              "type": "other"
+            },
             "200": {
               "value": ".2",
               "type": "other"
@@ -1691,7 +1695,7 @@
                 "type": "other"
               },
               "pressed-lightness": {
-                "value": "{ids.smc.color.modifiers.luminosity.200}",
+                "value": "{ids.smc.color.modifiers.luminosity.150}",
                 "type": "other"
               },
               "border-mix": {
