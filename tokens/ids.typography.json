@@ -77,6 +77,26 @@
                 "letterSpacing": "{ids.base.letter-spacing.tracking-normal}"
               },
               "type": "typography"
+            },
+            "semibold": {
+              "value": {
+                "fontFamily": "{ids.base.font-family.primary}",
+                "fontWeight": "{ids.base.font-weight.font-semibold}",
+                "lineHeight": "{ids.base.line-height.scaled.leading-50}",
+                "fontSize": "{ids.base.font-size.scaled.162}",
+                "letterSpacing": "{ids.base.letter-spacing.tracking-normal}"
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{ids.base.font-family.primary}",
+                "fontWeight": "{ids.base.font-weight.font-bold}",
+                "lineHeight": "{ids.base.line-height.scaled.leading-50}",
+                "fontSize": "{ids.base.font-size.scaled.162}",
+                "letterSpacing": "{ids.base.letter-spacing.tracking-normal}"
+              },
+              "type": "typography"
             }
           }
         }
