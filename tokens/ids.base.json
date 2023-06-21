@@ -1249,6 +1249,10 @@
             "value": "{ids.base.font-size.scaled.base} * 100",
             "type": "fontSizes"
           },
+          "112": {
+            "value": "{ids.base.font-size.scaled.base} * 112.5",
+            "type": "fontSizes"
+          },
           "125": {
             "value": "{ids.base.font-size.scaled.base} * 125",
             "type": "fontSizes"
