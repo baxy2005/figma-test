@@ -3,6 +3,7 @@
     "Core (Tailwind)",
     "ids.base",
     "ids.smc",
+    "ids.typography",
     "ids.light",
     "ids.components/buttons/button-body",
     "ids.components/buttons/filled",
