@@ -1,0 +1,13 @@
+@import url("_variables.css");
+
+.button-primary {
+    background: var(--sd-ids-comp-button-filled-color-primary-enabled-bg);
+    border: none;
+    padding: 20px;
+    color: white;
+    border-radius: 100px;
+}
+.button-primary:hover {
+    color: white;
+    filter: brightness(.8);
+}
