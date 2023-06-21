@@ -661,7 +661,7 @@
         "selectable": {
           "primary": {
             "primary-default": {
-              "value": "{ids.smc.color.accent.tertiary.60}",
+              "value": "{ids.smc.color.accent.primary.60}",
               "type": "color"
             },
             "on-primary": {
