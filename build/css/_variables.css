@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Jun 2023 17:53:21 GMT
+ * Generated on Thu, 22 Jun 2023 12:39:45 GMT
  */
 
 :root {
@@ -835,11 +835,11 @@
   --sd-ids-comp-button-elevated-color-error-pressed-bg: #ef4444;
   --sd-ids-comp-button-elevated-color-error-disabled-bg: #0a0a0a;
   --sd-ids-comp-button-elevated-color-error-on-disabled: #0a0a0a;
-  --sd-ids-comp-button-elevated-color-primary-eanble-bg: #d97706;
-  --sd-ids-comp-button-elevated-color-primary-on-eanble: #d97706;
-  --sd-ids-comp-button-elevated-color-primary-hovered-bg: #d97706;
-  --sd-ids-comp-button-elevated-color-primary-focused-bg: #d97706;
-  --sd-ids-comp-button-elevated-color-primary-pressed-bg: #d97706;
+  --sd-ids-comp-button-elevated-color-primary-eanble-bg: #d946ef;
+  --sd-ids-comp-button-elevated-color-primary-on-eanble: #d946ef;
+  --sd-ids-comp-button-elevated-color-primary-hovered-bg: #d946ef;
+  --sd-ids-comp-button-elevated-color-primary-focused-bg: #d946ef;
+  --sd-ids-comp-button-elevated-color-primary-pressed-bg: #d946ef;
   --sd-ids-comp-button-elevated-color-primary-disabled-bg: #0a0a0a;
   --sd-ids-comp-button-elevated-color-primary-on-disabled: #0a0a0a;
   --sd-ids-comp-button-elevated-color-secondary-eanble-bg: #6b7280;
@@ -870,11 +870,11 @@
   --sd-ids-comp-button-elevated-color-warning-pressed-bg: #eab308;
   --sd-ids-comp-button-elevated-color-warning-disabled-bg: #0a0a0a;
   --sd-ids-comp-button-elevated-color-warning-on-disabled: #0a0a0a;
-  --sd-ids-comp-button-filled-color-primary-enabled-bg: #d97706;
-  --sd-ids-comp-button-filled-color-primary-enabled-outline: #d97706;
-  --sd-ids-comp-button-filled-color-primary-hovered-bg: #d97706;
-  --sd-ids-comp-button-filled-color-primary-focused-bg: #d97706;
-  --sd-ids-comp-button-filled-color-primary-pressed-bg: #d97706;
+  --sd-ids-comp-button-filled-color-primary-enabled-bg: #d946ef;
+  --sd-ids-comp-button-filled-color-primary-enabled-outline: #d946ef;
+  --sd-ids-comp-button-filled-color-primary-hovered-bg: #d946ef;
+  --sd-ids-comp-button-filled-color-primary-focused-bg: #d946ef;
+  --sd-ids-comp-button-filled-color-primary-pressed-bg: #d946ef;
   --sd-ids-comp-button-filled-color-primary-on-disabled: #0a0a0a;
   --sd-ids-comp-button-filled-color-primary-disabled-bg: #0a0a0a;
   --sd-ids-comp-button-filled-color-primary-disabled-outline: #0a0a0a;
@@ -913,14 +913,14 @@
   --sd-ids-comp-button-filled-color-warning-pressed-bg: #eab308;
   --sd-ids-comp-button-filled-color-warning-on-enabled: #ffffff;
   --sd-ids-comp-button-outlined-color-primary-enabled-bg: #ffffff;
-  --sd-ids-comp-button-outlined-color-primary-outline: #d97706;
+  --sd-ids-comp-button-outlined-color-primary-outline: #d946ef;
   --sd-ids-comp-button-outlined-color-primary-disable-outline: ids.comp.button.color.secondary.outline;
-  --sd-ids-comp-button-outlined-color-primary-hovered-bg: #d97706;
-  --sd-ids-comp-button-outlined-color-primary-focused-bg: #d97706;
-  --sd-ids-comp-button-outlined-color-primary-pressed-bg: #d97706;
+  --sd-ids-comp-button-outlined-color-primary-hovered-bg: #d946ef;
+  --sd-ids-comp-button-outlined-color-primary-focused-bg: #d946ef;
+  --sd-ids-comp-button-outlined-color-primary-pressed-bg: #d946ef;
   --sd-ids-comp-button-outlined-color-primary-on-disabled: #0a0a0a;
   --sd-ids-comp-button-outlined-color-primary-disabled-outline: #0a0a0a;
-  --sd-ids-comp-button-outlined-color-primary-on-enabled: #d97706;
+  --sd-ids-comp-button-outlined-color-primary-on-enabled: #d946ef;
   --sd-ids-comp-button-outlined-color-secondary-enabled-bg: #ffffff;
   --sd-ids-comp-button-outlined-color-secondary-outline: #6b7280;
   --sd-ids-comp-button-outlined-color-secondary-disable-outline: ids.comp.button.color.secondary.outline;
@@ -965,11 +965,11 @@
   --sd-ids-comp-button-error-color-text-on-enabled: #ef4444;
   --sd-ids-comp-button-error-color-text-on-disabled: #0a0a0a;
   --sd-ids-comp-button-primary-color-text-enabled-bg: #ffffff;
-  --sd-ids-comp-button-primary-color-text-hovered-bg: #d97706;
-  --sd-ids-comp-button-primary-color-text-focused-bg: #d97706;
-  --sd-ids-comp-button-primary-color-text-pressed-bg: #d97706;
+  --sd-ids-comp-button-primary-color-text-hovered-bg: #d946ef;
+  --sd-ids-comp-button-primary-color-text-focused-bg: #d946ef;
+  --sd-ids-comp-button-primary-color-text-pressed-bg: #d946ef;
   --sd-ids-comp-button-primary-color-text-disable-bg: #0a0a0a;
-  --sd-ids-comp-button-primary-color-text-on-enabled: #d97706;
+  --sd-ids-comp-button-primary-color-text-on-enabled: #d946ef;
   --sd-ids-comp-button-primary-color-text-on-disabled: #0a0a0a;
   --sd-ids-comp-button-secondary-color-text-enabled-bg: #ffffff;
   --sd-ids-comp-button-secondary-color-text-hovered-bg: #6b7280;
@@ -1005,7 +1005,7 @@
   --sd-ids-smc-color-accent-primary-30: #3730a3;
   --sd-ids-smc-color-accent-primary-40: #4338ca;
   --sd-ids-smc-color-accent-primary-50: #4f46e5;
-  --sd-ids-smc-color-accent-primary-60: #d97706;
+  --sd-ids-smc-color-accent-primary-60: #6366f1;
   --sd-ids-smc-color-accent-primary-70: #818cf8;
   --sd-ids-smc-color-accent-primary-80: #a5b4fc;
   --sd-ids-smc-color-accent-primary-90: #c7d2fe;
@@ -1151,9 +1151,9 @@
   --sd-ids-smc-color-container-info-info-container: #bae6fd;
   --sd-ids-smc-color-container-info-on-info-container: #0c4a6e;
   --sd-ids-smc-color-container-info-info-outline: #0c4a6e;
-  --sd-ids-smc-color-selectable-primary-primary-default: #d97706;
+  --sd-ids-smc-color-selectable-primary-primary-default: #d946ef;
   --sd-ids-smc-color-selectable-primary-on-primary: #ffffff;
-  --sd-ids-smc-color-selectable-primary-on-primary-inverese: #d97706;
+  --sd-ids-smc-color-selectable-primary-on-primary-inverese: #d946ef;
   --sd-ids-smc-color-selectable-secondary-secondary-default: #6b7280;
   --sd-ids-smc-color-selectable-secondary-on-secondary: #ffffff;
   --sd-ids-smc-color-selectable-secondary-on-secondary-inverese: #6b7280;
