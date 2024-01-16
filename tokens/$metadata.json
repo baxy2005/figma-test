@@ -1,25 +1,9 @@
 {
   "tokenSetOrder": [
-    "Core (Tailwind)",
-    "ids.base",
-    "ids.smc",
-    "ids.typography",
-    "ids.light",
-    "ids.components/buttons/button-body",
-    "ids.components/buttons/filled",
-    "ids.components/buttons/outlined",
-    "ids.components/buttons/elevated/primary",
-    "ids.components/buttons/elevated/secodary",
-    "ids.components/buttons/elevated/tertiary",
-    "ids.components/buttons/elevated/error",
-    "ids.components/buttons/elevated/success",
-    "ids.components/buttons/elevated/warning",
-    "ids.components/buttons/text/primary",
-    "ids.components/buttons/text/secondary",
-    "ids.components/buttons/text/tertiary",
-    "ids.components/buttons/text/error",
-    "ids.components/buttons/text/success",
-    "ids.components/buttons/text/warning",
-    "ids.components/text-fields"
+    "base",
+    "light",
+    "dark",
+    "smc reference",
+    "component"
   ]
 }
