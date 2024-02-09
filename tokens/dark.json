@@ -94,11 +94,46 @@
           "type": "color"
         },
         "fixed": {
+          "lighter-10": {
+            "attributes": {
+              "category": "color"
+            },
+            "value": "{base.color.light}",
+            "type": "color"
+          },
           "default": {
             "attributes": {
               "category": "color"
             },
             "value": "{base.color.Slate.50}",
+            "type": "color"
+          },
+          "darker-10": {
+            "attributes": {
+              "category": "color"
+            },
+            "value": "{base.color.Slate.100}",
+            "type": "color"
+          },
+          "darker-20": {
+            "attributes": {
+              "category": "color"
+            },
+            "value": "{base.color.Slate.200}",
+            "type": "color"
+          },
+          "darker-30": {
+            "attributes": {
+              "category": "color"
+            },
+            "value": "{base.color.Slate.300}",
+            "type": "color"
+          },
+          "darker-40": {
+            "attributes": {
+              "category": "color"
+            },
+            "value": "{base.color.Slate.400}",
             "type": "color"
           },
           "darker-50": {
@@ -155,6 +190,13 @@
         }
       },
       "primary": {
+        "lighter-50": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{base.color.Custom.950}",
+          "type": "color"
+        },
         "lighter-40": {
           "attributes": {
             "category": "color"

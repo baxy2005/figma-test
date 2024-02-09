@@ -1,0 +1,71 @@
+{
+  "comp": {
+    "cards": {
+      "size-ok": {
+        "border": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.md}",
+          "type": "number"
+        },
+        "border-none": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.none}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.md}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.8}",
+          "type": "number"
+        },
+        "padding-bottom": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.8}",
+          "type": "number"
+        },
+        "padding-media-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.spacing.0}",
+          "type": "number"
+        },
+        "padding-media-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.spacing.0}",
+          "type": "number"
+        },
+        "padding-top": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.8}",
+          "type": "number"
+        },
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.8}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
