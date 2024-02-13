@@ -1,7 +1,7 @@
 {
   "comp": {
     "cards": {
-      "size-ok": {
+      "size": {
         "border": {
           "attributes": {
             "type": "number"

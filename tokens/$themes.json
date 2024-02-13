@@ -3268,15 +3268,15 @@
     "$figmaCollectionId": "VariableCollectionId:2002:28942",
     "$figmaModeId": "2002:58",
     "$figmaVariableReferences": {
-      "comp.cards.size-ok.border": "b4e38af78ec2b2f480aa605271d7c280552038dd",
-      "comp.cards.size-ok.border-none": "dd44de97857071748447e509494543f10b747fa5",
-      "comp.cards.size-ok.border-radius": "792ddc9fb47c33895b27517a963cbb236d20d9fd",
-      "comp.cards.size-ok.gap": "4a55b19fad5fdd879107552eb669da2680d33185",
-      "comp.cards.size-ok.padding-bottom": "80ee13c1a0a94938e07243dd4accdd7ce2392431",
-      "comp.cards.size-ok.padding-media-x": "2ff79af9471590f639b73b4c968821e2adef7c2c",
-      "comp.cards.size-ok.padding-media-y": "139d30aabc8be84e8d1650296f4fd682fdab12df",
-      "comp.cards.size-ok.padding-top": "c5855565a843e1ade80d50b2f65bc3311d663db2",
-      "comp.cards.size-ok.padding-x": "073412ff65c1a40edf35d01402e2473c62fe8058"
+      "comp.cards.size.border": "b4e38af78ec2b2f480aa605271d7c280552038dd",
+      "comp.cards.size.border-none": "dd44de97857071748447e509494543f10b747fa5",
+      "comp.cards.size.border-radius": "792ddc9fb47c33895b27517a963cbb236d20d9fd",
+      "comp.cards.size.gap": "4a55b19fad5fdd879107552eb669da2680d33185",
+      "comp.cards.size.padding-bottom": "80ee13c1a0a94938e07243dd4accdd7ce2392431",
+      "comp.cards.size.padding-media-x": "2ff79af9471590f639b73b4c968821e2adef7c2c",
+      "comp.cards.size.padding-media-y": "139d30aabc8be84e8d1650296f4fd682fdab12df",
+      "comp.cards.size.padding-top": "c5855565a843e1ade80d50b2f65bc3311d663db2",
+      "comp.cards.size.padding-x": "073412ff65c1a40edf35d01402e2473c62fe8058"
     },
     "group": "comp-size"
   },
@@ -3292,15 +3292,15 @@
     "$figmaCollectionId": "VariableCollectionId:2002:28942",
     "$figmaModeId": "2002:59",
     "$figmaVariableReferences": {
-      "comp.cards.size-ok.border": "b4e38af78ec2b2f480aa605271d7c280552038dd",
-      "comp.cards.size-ok.border-none": "dd44de97857071748447e509494543f10b747fa5",
-      "comp.cards.size-ok.border-radius": "792ddc9fb47c33895b27517a963cbb236d20d9fd",
-      "comp.cards.size-ok.gap": "4a55b19fad5fdd879107552eb669da2680d33185",
-      "comp.cards.size-ok.padding-bottom": "80ee13c1a0a94938e07243dd4accdd7ce2392431",
-      "comp.cards.size-ok.padding-media-x": "2ff79af9471590f639b73b4c968821e2adef7c2c",
-      "comp.cards.size-ok.padding-media-y": "139d30aabc8be84e8d1650296f4fd682fdab12df",
-      "comp.cards.size-ok.padding-top": "c5855565a843e1ade80d50b2f65bc3311d663db2",
-      "comp.cards.size-ok.padding-x": "073412ff65c1a40edf35d01402e2473c62fe8058"
+      "comp.cards.size.border": "b4e38af78ec2b2f480aa605271d7c280552038dd",
+      "comp.cards.size.border-none": "dd44de97857071748447e509494543f10b747fa5",
+      "comp.cards.size.border-radius": "792ddc9fb47c33895b27517a963cbb236d20d9fd",
+      "comp.cards.size.gap": "4a55b19fad5fdd879107552eb669da2680d33185",
+      "comp.cards.size.padding-bottom": "80ee13c1a0a94938e07243dd4accdd7ce2392431",
+      "comp.cards.size.padding-media-x": "2ff79af9471590f639b73b4c968821e2adef7c2c",
+      "comp.cards.size.padding-media-y": "139d30aabc8be84e8d1650296f4fd682fdab12df",
+      "comp.cards.size.padding-top": "c5855565a843e1ade80d50b2f65bc3311d663db2",
+      "comp.cards.size.padding-x": "073412ff65c1a40edf35d01402e2473c62fe8058"
     },
     "group": "comp-size"
   },
@@ -3316,15 +3316,15 @@
     "$figmaCollectionId": "VariableCollectionId:2002:28942",
     "$figmaModeId": "2002:60",
     "$figmaVariableReferences": {
-      "comp.cards.size-ok.border": "b4e38af78ec2b2f480aa605271d7c280552038dd",
-      "comp.cards.size-ok.border-none": "dd44de97857071748447e509494543f10b747fa5",
-      "comp.cards.size-ok.border-radius": "792ddc9fb47c33895b27517a963cbb236d20d9fd",
-      "comp.cards.size-ok.gap": "4a55b19fad5fdd879107552eb669da2680d33185",
-      "comp.cards.size-ok.padding-bottom": "80ee13c1a0a94938e07243dd4accdd7ce2392431",
-      "comp.cards.size-ok.padding-media-x": "2ff79af9471590f639b73b4c968821e2adef7c2c",
-      "comp.cards.size-ok.padding-media-y": "139d30aabc8be84e8d1650296f4fd682fdab12df",
-      "comp.cards.size-ok.padding-top": "c5855565a843e1ade80d50b2f65bc3311d663db2",
-      "comp.cards.size-ok.padding-x": "073412ff65c1a40edf35d01402e2473c62fe8058"
+      "comp.cards.size.border": "b4e38af78ec2b2f480aa605271d7c280552038dd",
+      "comp.cards.size.border-none": "dd44de97857071748447e509494543f10b747fa5",
+      "comp.cards.size.border-radius": "792ddc9fb47c33895b27517a963cbb236d20d9fd",
+      "comp.cards.size.gap": "4a55b19fad5fdd879107552eb669da2680d33185",
+      "comp.cards.size.padding-bottom": "80ee13c1a0a94938e07243dd4accdd7ce2392431",
+      "comp.cards.size.padding-media-x": "2ff79af9471590f639b73b4c968821e2adef7c2c",
+      "comp.cards.size.padding-media-y": "139d30aabc8be84e8d1650296f4fd682fdab12df",
+      "comp.cards.size.padding-top": "c5855565a843e1ade80d50b2f65bc3311d663db2",
+      "comp.cards.size.padding-x": "073412ff65c1a40edf35d01402e2473c62fe8058"
     },
     "group": "comp-size"
   }
