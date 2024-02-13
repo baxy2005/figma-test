@@ -5246,6 +5246,13 @@
                 "value": "{smc.reference.container.color.fg.suface.lighter-10}",
                 "type": "color"
               },
+              "hovered": {
+                "attributes": {
+                  "category": "color"
+                },
+                "value": "{smc.reference.container.color.fg.suface.lighter-10}",
+                "type": "color"
+              },
               "disabled": {
                 "attributes": {
                   "category": "color"
