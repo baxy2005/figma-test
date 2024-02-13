@@ -66,6 +66,410 @@
           "type": "number"
         }
       }
+    },
+    "avatar": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.6}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.6}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.full}",
+          "type": "number"
+        },
+        "icon": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.icon.xl}",
+          "type": "number"
+        },
+        "height": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.64}",
+          "type": "number"
+        },
+        "width": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.width.64}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.12}",
+          "type": "number"
+        },
+        "border": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.sm}",
+          "type": "number"
+        }
+      }
+    },
+    "buttons": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.24}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.full}",
+          "type": "number"
+        },
+        "icon": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.icons-nested.spacious}",
+          "type": "number"
+        },
+        "height": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.56}",
+          "type": "number"
+        },
+        "min-width": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.56}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.8}",
+          "type": "number"
+        },
+        "border": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.sm}",
+          "type": "number"
+        }
+      }
+    },
+    "icon-button": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.4}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.4}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.full}",
+          "type": "number"
+        },
+        "icon": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.icons-nested.spacious}",
+          "type": "number"
+        },
+        "width": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.width.56}",
+          "type": "number"
+        },
+        "height": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.56}",
+          "type": "number"
+        },
+        "border": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.sm}",
+          "type": "number"
+        }
+      }
+    },
+    "action-panel": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.xl}",
+          "type": "number"
+        },
+        "border": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.md}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.16}",
+          "type": "number"
+        }
+      }
+    },
+    "divider": {
+      "size": {
+        "width": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.4}",
+          "type": "number"
+        },
+        "height": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.4}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.none}",
+          "type": "number"
+        }
+      }
+    },
+    "action-item-button": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.md}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.16}",
+          "type": "number"
+        },
+        "icon": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.icons-nested.spacious}",
+          "type": "number"
+        },
+        "height": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.56}",
+          "type": "number"
+        },
+        "border-width": {
+          "attributes": {
+            "type": "border-width"
+          },
+          "value": "{smc.reference.container.border-width.sm}",
+          "type": "number"
+        }
+      }
+    },
+    "Paginator": {
+      "size": {
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.12}",
+          "type": "number"
+        }
+      }
+    },
+    "accordion-button": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.none}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.16}",
+          "type": "number"
+        },
+        "icon": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.icons-nested.spacious}",
+          "type": "number"
+        },
+        "height": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.size.height.56}",
+          "type": "number"
+        },
+        "border-width": {
+          "attributes": {
+            "type": "border-width"
+          },
+          "value": "{smc.reference.container.border-width.sm}",
+          "type": "number"
+        }
+      }
+    },
+    "accordion-panel": {
+      "size": {
+        "padding-x": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "padding-y": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.padding.16}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.16}",
+          "type": "number"
+        }
+      }
+    },
+    "accordions": {
+      "size": {
+        "border-radius": {
+          "attributes": {
+            "type": "border-radius"
+          },
+          "value": "{smc.reference.container.border-radius.none}",
+          "type": "number"
+        },
+        "gap": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.gap.8}",
+          "type": "number"
+        },
+        "border": {
+          "attributes": {
+            "type": "number"
+          },
+          "value": "{smc.reference.container.border-width.sm}",
+          "type": "number"
+        }
+      }
     }
   }
 }
