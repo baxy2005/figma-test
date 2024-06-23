@@ -3,7 +3,11 @@
     "base",
     "light",
     "dark",
-    "smc reference",
-    "component"
+    "smc-reference",
+    "comp",
+    "comp-dense",
+    "comp-compact",
+    "comp-comfortable",
+    "comp-spacious"
   ]
 }
