@@ -2573,7 +2573,7 @@
         "Montserrat": {
           "attributes": {
             "type": "font-family",
-            "category": "font"
+            "category": "number"
           },
           "value": "Montserrat",
           "type": "number"
