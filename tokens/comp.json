@@ -4944,13 +4944,6 @@
           }
         }
       },
-      "icons": {
-        "attributes": {
-          "type": "number"
-        },
-        "value": "{smc.reference.container.size.height.25}",
-        "type": "number"
-      },
       "outlined": {
         "color": {
           "bg": {
