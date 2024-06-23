@@ -3826,7 +3826,7 @@
               "type": "number"
             },
             "value": "{smc.reference.container.focused-outline.size.default}",
-            "type": "color"
+            "type": "number"
           }
         }
       },
