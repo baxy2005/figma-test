@@ -4949,7 +4949,7 @@
           "type": "number"
         },
         "value": "{smc.reference.container.size.height.25}",
-        "type": "color"
+        "type": "number"
       },
       "outlined": {
         "color": {
