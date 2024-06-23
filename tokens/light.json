@@ -194,77 +194,77 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.50}",
+          "value": "{base.color.Fuchsia.50}",
           "type": "color"
         },
         "lighter-40": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.100}",
+          "value": "{base.color.Fuchsia.100}",
           "type": "color"
         },
         "lighter-30": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.200}",
+          "value": "{base.color.Fuchsia.200}",
           "type": "color"
         },
         "lighter-20": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.300}",
+          "value": "{base.color.Fuchsia.300}",
           "type": "color"
         },
         "lighter-10": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.400}",
+          "value": "{base.color.Fuchsia.400}",
           "type": "color"
         },
         "default": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.500}",
+          "value": "{base.color.Fuchsia.500}",
           "type": "color"
         },
         "darker-10": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.600}",
+          "value": "{base.color.Fuchsia.600}",
           "type": "color"
         },
         "darker-20": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.700}",
+          "value": "{base.color.Fuchsia.700}",
           "type": "color"
         },
         "darker-30": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.800}",
+          "value": "{base.color.Fuchsia.800}",
           "type": "color"
         },
         "darker-40": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.900}",
+          "value": "{base.color.Fuchsia.900}",
           "type": "color"
         },
         "darker-50": {
           "attributes": {
             "category": "color"
           },
-          "value": "{base.color.Custom.950}",
+          "value": "{base.color.Fuchsia.950}",
           "type": "color"
         },
         "fixed": {

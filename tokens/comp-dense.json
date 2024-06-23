@@ -7,21 +7,21 @@
             "attributes": {
               "type": "number"
             },
-            "value": "{smc.reference.container.padding.24}",
+            "value": "{smc.reference.container.padding.8}",
             "type": "number"
           },
           "padding-y": {
             "attributes": {
               "type": "number"
             },
-            "value": "{smc.reference.container.padding.16}",
+            "value": "{smc.reference.container.padding.6}",
             "type": "number"
           },
           "border-radius": {
             "attributes": {
               "type": "border-radius"
             },
-            "value": "{smc.reference.container.border-radius.full}",
+            "value": "{smc.reference.container.border-radius.none}",
             "type": "number"
           },
           "border-width": {
@@ -35,14 +35,14 @@
             "attributes": {
               "type": "number"
             },
-            "value": "{smc.reference.container.size.height.56}",
+            "value": "{smc.reference.container.size.height.24}",
             "type": "number"
           },
           "height": {
             "attributes": {
               "type": "number"
             },
-            "value": "{smc.reference.container.size.height.56}",
+            "value": "{smc.reference.container.size.height.24}",
             "type": "number"
           },
           "gap": {
