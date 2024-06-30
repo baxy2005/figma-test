@@ -1,9 +1,9 @@
 {
-    "source": ["tokens/**/*.json"],
+    "source": ["tokens-v/**/*.json"],
     "platforms": {
       "css": {
-        "transformGroup": "css",
-        "prefix": "sd",
+        "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "content/icon", "size/px", "color/rgb"],
+        "prefix": "ids",
         "buildPath": "build/css/",
         "files": [{
           "destination": "_variables.css",

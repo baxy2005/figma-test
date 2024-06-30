@@ -1,13 +1,14 @@
 @import url("_variables.css");
 
 .button-primary {
-    background: var(--sd-ids-comp-button-filled-color-primary-enabled-bg);
+    background: var( --ids-comp-buttons-filled-color-bg-primary-enabled);
     border: none;
-    padding: 20px;
-    color: white;
-    border-radius: 100px;
+    padding: var(--ids-comp-buttons-padding-y-spacious) var(--ids-comp-buttons-padding-x-spacious);
+    color: var(--ids-comp-buttons-filled-color-fg-primary-on);
+    border-radius: var(--ids-comp-buttons-border-radius-spacious);
+    height: var(  --ids-comp-buttons-height-spacious);
 }
 .button-primary:hover {
-    color: white;
-    filter: brightness(.8);
+    color: var(--ids-comp-buttons-filled-color-fg-primary-on);
+    background: var( --ids-comp-buttons-filled-color-bg-primary-hovered);
 }
