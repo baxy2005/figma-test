@@ -167,7 +167,7 @@
                 "type": "font-family",
                 "category": "font"
               },
-              "value": "0",
+              "value": "{smc.reference.typography.font-family.default}",
               "type": "number"
             },
             "font-size": {
