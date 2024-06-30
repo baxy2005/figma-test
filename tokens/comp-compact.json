@@ -159,6 +159,46 @@
             "value": "{smc.reference.container.icon-nested.lg}",
             "type": "number"
           }
+        },
+        "label": {
+          "typography": {
+            "font-family": {
+              "attributes": {
+                "type": "font-family",
+                "category": "font"
+              },
+              "value": "{smc.reference.typography.font-family.default}",
+              "type": "number"
+            },
+            "font-size": {
+              "attributes": {
+                "type": "font-size"
+              },
+              "value": "{smc.reference.typography.font-size.12}",
+              "type": "number"
+            },
+            "line-height": {
+              "attributes": {
+                "type": "line-height"
+              },
+              "value": "{smc.reference.typography.line-height.12}",
+              "type": "number"
+            },
+            "font-weight": {
+              "attributes": {
+                "type": "font-weight"
+              },
+              "value": "{smc.reference.typography.font-weight.Bold}",
+              "type": "number"
+            },
+            "letter-spacing": {
+              "attributes": {
+                "type": "letter-spacing"
+              },
+              "value": "{smc.reference.typography.letter-spacing.default}",
+              "type": "number"
+            }
+          }
         }
       }
     }
