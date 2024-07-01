@@ -221,7 +221,7 @@
             "attributes": {
               "type": "border-radius"
             },
-            "value": "{smc.reference.container.border-radius.xs}",
+            "value": "{smc.reference.container.border-radius.full}",
             "type": "number"
           },
           "border-width": {
