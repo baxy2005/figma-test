@@ -6542,7 +6542,7 @@
                 "attributes": {
                   "category": "color"
                 },
-                "value": "{smc.reference.container.color.bg.primary.default}",
+                "value": "{smc.reference.container.color.bg.warning.default}",
                 "type": "color"
               },
               "hovered": {
