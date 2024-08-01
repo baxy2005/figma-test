@@ -4241,7 +4241,7 @@
               "type": "font-family",
               "category": "font"
             },
-            "value": "0",
+            "value": "base.typography.font-family.Montserrat",
             "type": "number"
           }
         }
