@@ -2578,7 +2578,7 @@
                 "type": "opacity"
               },
               "value": "{base.percentage.250}",
-              "type": "color"
+              "type": "number"
             },
             "light": {
               "50": {
@@ -3347,28 +3347,28 @@
               "type": "border-width"
             },
             "value": "{base.dimension.0}",
-            "type": "color"
+            "type": "number"
           },
           "sm": {
             "attributes": {
               "type": "border-width"
             },
             "value": "{base.dimension.10}",
-            "type": "color"
+            "type": "number"
           },
           "md": {
             "attributes": {
               "type": "border-width"
             },
             "value": "{base.dimension.20}",
-            "type": "color"
+            "type": "number"
           },
           "xl": {
             "attributes": {
               "type": "border-width"
             },
             "value": "{base.dimension.40}",
-            "type": "color"
+            "type": "number"
           }
         },
         "spacing": {
@@ -3377,77 +3377,77 @@
               "type": "spacing"
             },
             "value": "{base.dimension.0}",
-            "type": "color"
+            "type": "number"
           },
           "4": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.40}",
-            "type": "color"
+            "type": "number"
           },
           "6": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.60}",
-            "type": "color"
+            "type": "number"
           },
           "8": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.80}",
-            "type": "color"
+            "type": "number"
           },
           "10": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.100}",
-            "type": "color"
+            "type": "number"
           },
           "12": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.120}",
-            "type": "color"
+            "type": "number"
           },
           "16": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.160}",
-            "type": "color"
+            "type": "number"
           },
           "20": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.200}",
-            "type": "color"
+            "type": "number"
           },
           "24": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.240}",
-            "type": "color"
+            "type": "number"
           },
           "32": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.320}",
-            "type": "color"
+            "type": "number"
           },
           "72": {
             "attributes": {
               "type": "spacing"
             },
             "value": "{base.dimension.720}",
-            "type": "color"
+            "type": "number"
           }
         },
         "opacity": {
@@ -3457,7 +3457,7 @@
                 "type": "opacity"
               },
               "value": "{base.percentage.250}",
-              "type": "color"
+              "type": "number"
             }
           }
         }

@@ -11429,7 +11429,7 @@
               "type": "opacity"
             },
             "value": "{smc.reference.container.color.opacity.backdrop}",
-            "type": "color"
+            "type": "number"
           }
         }
       },
