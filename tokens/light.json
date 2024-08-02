@@ -189,7 +189,7 @@
           }
         }
       },
-      "primary": {
+      "primary-test": {
         "lighter-50": {
           "attributes": {
             "category": "color"
