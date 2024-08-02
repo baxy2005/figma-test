@@ -58,7 +58,7 @@
                     "attributes": {
                       "category": "color"
                     },
-                    "value": "{smc.reference.container.color.fg.error.default}",
+                    "value": "{smc.reference.container.color.bg.error.default}",
                     "type": "color"
                   }
                 },
