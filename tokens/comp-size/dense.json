@@ -50,7 +50,7 @@
             "description": ""
           },
           "border-radius": {
-            "value": "{smc.reference.container.border-radius.full}",
+            "value": "{smc.reference.container.border-radius.2xs}",
             "type": "dimension",
             "parent": "comp-size/dense",
             "description": "",
@@ -267,10 +267,11 @@
             "description": ""
           },
           "border-radius": {
-            "value": "{smc.reference.container.border-radius.4xs}",
+            "value": "{smc.reference.container.border-radius.full}",
             "type": "dimension",
             "parent": "comp-size/dense",
-            "description": ""
+            "description": "",
+            "oldValue": "{smc.reference.container.border-radius.4xs}"
           },
           "border-width": {
             "value": "{smc.reference.container.border-width.sm}",
