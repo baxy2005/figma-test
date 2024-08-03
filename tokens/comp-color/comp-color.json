@@ -111,11 +111,11 @@
                   "description": ""
                 },
                 "pressed": {
-                  "value": "{smc.reference.container.color.bg.brand.darker-30}",
+                  "value": "{smc.reference.container.color.bg.primary.darker-30}",
                   "type": "color",
                   "parent": "comp-color/comp-color",
                   "description": "",
-                  "oldValue": "{smc.reference.container.color.bg.primary.darker-30}"
+                  "oldValue": "{smc.reference.container.color.bg.brand.darker-30}"
                 }
               },
               "error": {

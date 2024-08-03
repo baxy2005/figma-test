@@ -6,7 +6,7 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text",
+              "type": "number",
               "parent": "comp-size/dense",
               "description": ""
             },
@@ -54,7 +54,7 @@
             "type": "dimension",
             "parent": "comp-size/dense",
             "description": "",
-            "oldValue": "{smc.reference.container.border-radius.full}"
+            "oldValue": "{smc.reference.container.border-radius.xs}"
           },
           "border-width": {
             "value": "{smc.reference.container.border-width.sm}",
@@ -93,7 +93,7 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text",
+              "type": "number",
               "parent": "comp-size/dense",
               "description": ""
             },
@@ -223,7 +223,7 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text",
+              "type": "number",
               "parent": "comp-size/dense",
               "description": ""
             },
@@ -267,11 +267,11 @@
             "description": ""
           },
           "border-radius": {
-            "value": "{smc.reference.container.border-radius.full}",
+            "value": "{smc.reference.container.border-radius.4xs}",
             "type": "dimension",
             "parent": "comp-size/dense",
             "description": "",
-            "oldValue": "{smc.reference.container.border-radius.4xs}"
+            "oldValue": "{smc.reference.container.border-radius.full}"
           },
           "border-width": {
             "value": "{smc.reference.container.border-width.sm}",

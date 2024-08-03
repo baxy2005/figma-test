@@ -6,7 +6,7 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text",
+              "type": "number",
               "parent": "comp-size/spacious",
               "description": ""
             },
@@ -93,7 +93,7 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text",
+              "type": "number",
               "parent": "comp-size/spacious",
               "description": ""
             },
@@ -223,7 +223,7 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text",
+              "type": "number",
               "parent": "comp-size/spacious",
               "description": ""
             },
