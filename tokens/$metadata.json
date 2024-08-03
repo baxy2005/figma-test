@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
-    "base",
-    "light",
-    "dark",
-    "smc-reference",
-    "comp-color",
-    "comp-dense",
-    "comp-compact",
-    "comp-comfortable",
-    "comp-spacious"
+    "base/base",
+    "smc-reference/smc-reference",
+    "smc-colors/light",
+    "smc-colors/dark",
+    "comp-color/comp-color",
+    "comp-size/dense",
+    "comp-size/compact",
+    "comp-size/comfortable",
+    "comp-size/spacious"
   ]
 }
