@@ -4,7 +4,7 @@
     "name": "base",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "enabled"
+      "base/base": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:39288",
     "$figmaModeId": "14007:46",
@@ -378,9 +378,9 @@
     "name": "smc-reference",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "smc-reference": "enabled",
-      "base": "source",
-      "light": "source"
+      "base/base": "source",
+      "smc-reference/smc-reference": "enabled",
+      "smc-colors/light": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:39651",
     "$figmaModeId": "14007:47",
@@ -968,8 +968,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "light": "enabled"
+      "base/base": "source",
+      "smc-colors/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40228",
     "$figmaModeId": "14007:48",
@@ -1131,8 +1131,8 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "dark": "enabled"
+      "base/base": "source",
+      "smc-colors/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40228",
     "$figmaModeId": "14007:49",
@@ -1294,10 +1294,9 @@
     "name": "dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "light": "source",
-      "smc-reference": "source",
-      "comp-dense": "enabled"
+      "comp-size/dense": "enabled",
+      "smc-reference/smc-reference": "source",
+      "base/base": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40378",
     "$figmaModeId": "14007:50",
@@ -1337,10 +1336,9 @@
     "name": "compact",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "smc-reference": "source",
-      "comp-compact": "enabled",
-      "light": "source"
+      "base/base": "source",
+      "smc-reference/smc-reference": "source",
+      "comp-size/compact": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40378",
     "$figmaModeId": "14007:51",
@@ -1380,10 +1378,9 @@
     "name": "comfortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "light": "source",
-      "smc-reference": "source",
-      "comp-comfortable": "enabled"
+      "base/base": "source",
+      "smc-reference/smc-reference": "source",
+      "comp-size/comfortable": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40378",
     "$figmaModeId": "14007:52",
@@ -1423,10 +1420,9 @@
     "name": "spacious",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "smc-reference": "source",
-      "comp-spacious": "enabled",
-      "light": "source"
+      "comp-size/spacious": "enabled",
+      "smc-reference/smc-reference": "source",
+      "base/base": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40378",
     "$figmaModeId": "14007:53",
@@ -1466,10 +1462,10 @@
     "name": "comp-color",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base": "source",
-      "light": "source",
-      "smc-reference": "source",
-      "comp-color": "enabled"
+      "base/base": "source",
+      "smc-reference/smc-reference": "source",
+      "smc-colors/light": "source",
+      "comp-color/comp-color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40779",
     "$figmaModeId": "14007:54",

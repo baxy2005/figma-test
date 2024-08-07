@@ -1,0 +1,200 @@
+{
+  "comp": {
+    "size": {
+      "snackbar": {
+        "message": {
+          "typography": {
+            "font-family": {
+              "value": "{smc.reference.typography.font-family.default}",
+              "type": "number",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "font-size": {
+              "value": "{smc.reference.typography.font-size.14}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "line-height": {
+              "value": "{smc.reference.typography.line-height.16}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "font-weight": {
+              "value": "{smc.reference.typography.font-weight.Regular}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "letter-spacing": {
+              "value": "{smc.reference.typography.letter-spacing.default}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          },
+          "size": {
+            "min-width": {
+              "value": "{smc.reference.container.size.width.128}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "min-height": {
+              "value": "{smc.reference.container.size.height.24}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "max-width": {
+              "value": "{smc.reference.container.size.width.400}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "padding-right": {
+              "value": "{smc.reference.container.padding.8}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        },
+        "container": {
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.16}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.16}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "border-radius": {
+              "value": "{smc.reference.container.border-radius.xs}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "border-left-width": {
+              "value": "{smc.reference.container.border-width.xl}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "border-right-width": {
+              "value": "{smc.reference.container.border-width.none}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "border-top-width": {
+              "value": "{smc.reference.container.border-width.none}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "border-bottom-width": {
+              "value": "{smc.reference.container.border-width.none}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "min-width": {
+              "value": "{smc.reference.container.size.width.128}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "max-width": {
+              "value": "{smc.reference.container.size.width.400}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "gap": {
+              "value": "{smc.reference.container.gap.8}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        },
+        "actions": {
+          "size": {
+            "gap": {
+              "value": "{smc.reference.container.gap.4}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        },
+        "icon": {
+          "size": {
+            "padding-left": {
+              "value": "{smc.reference.container.padding.4}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "padding-right": {
+              "value": "{smc.reference.container.padding.8}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "icon": {
+              "value": "{smc.reference.container.icon-nested.md}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        },
+        "message-action": {
+          "size": {
+            "padding-right": {
+              "value": "{smc.reference.container.padding.32}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            },
+            "gap": {
+              "value": "{smc.reference.container.gap.12}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        },
+        "icon-button": {
+          "size": {
+            "icon-button": {
+              "value": "{smc.reference.container.icon-nested.sm}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        },
+        "focused-outline": {
+          "size": {
+            "outline": {
+              "value": "{smc.reference.container.focused-outline.size.default}",
+              "type": "dimension",
+              "parent": "comp-size/comfortable",
+              "description": ""
+            }
+          }
+        }
+      }
+    }
+  }
+}
