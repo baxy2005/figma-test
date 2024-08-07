@@ -4,7 +4,7 @@
     "name": "base",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "base/base": "source"
+      "base/base": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:39288",
     "$figmaModeId": "14007:46",
