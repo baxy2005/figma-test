@@ -1,12 +1,6 @@
 {
   "comp": {
     "color": {
-      "default": {
-        "value": "#ffffff",
-        "type": "color",
-        "parent": "comp-color/comp-color",
-        "description": ""
-      },
       "tag": {
         "focused-outline": {
           "color": {

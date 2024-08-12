@@ -257,7 +257,6 @@
     "$figmaCollectionId": "VariableCollectionId:18005:134",
     "$figmaModeId": "18005:4",
     "$figmaVariableReferences": {
-      "comp.color.default": "d4c9fd49926f2f0f605869213f2dbe6696714542",
       "comp.color.tag.focused-outline.color.dark.focused": "74f8ad51db6dd79c109695c7774060d18c23ade0",
       "comp.color.tag.focused-outline.color.light.focused": "97d9e3de11e5ad076aacabf1e30bde5ee1ab4329",
       "comp.color.tag.focused-outline.size.outline": "2fcead2e27fa693d01369f86df27bbf5215e196f",
