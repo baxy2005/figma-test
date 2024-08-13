@@ -137,6 +137,12 @@
                   "type": "color",
                   "parent": "comp-color/comp-color",
                   "description": ""
+                },
+                "disabled": {
+                  "value": "{smc.reference.container.color.bg.disabled.default}",
+                  "type": "color",
+                  "parent": "comp-color/comp-color",
+                  "description": ""
                 }
               },
               "success": {
@@ -157,6 +163,12 @@
                   "type": "color",
                   "parent": "comp-color/comp-color",
                   "description": ""
+                },
+                "disabled": {
+                  "value": "{smc.reference.container.color.bg.disabled.default}",
+                  "type": "color",
+                  "parent": "comp-color/comp-color",
+                  "description": ""
                 }
               },
               "warning": {
@@ -174,6 +186,12 @@
                 },
                 "pressed": {
                   "value": "{smc.reference.container.color.bg.warning.darker-30}",
+                  "type": "color",
+                  "parent": "comp-color/comp-color",
+                  "description": ""
+                },
+                "disabled": {
+                  "value": "{smc.reference.container.color.bg.disabled.default}",
                   "type": "color",
                   "parent": "comp-color/comp-color",
                   "description": ""
