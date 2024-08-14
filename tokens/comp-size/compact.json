@@ -6,59 +6,41 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "number",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "text"
             },
             "font-size": {
               "value": "{smc.reference.typography.font-size.14}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "line-height": {
               "value": "{smc.reference.typography.line-height.16}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "font-weight": {
               "value": "{smc.reference.typography.font-weight.Regular}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "letter-spacing": {
               "value": "{smc.reference.typography.letter-spacing.default}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           },
           "size": {
             "min-width": {
               "value": "{smc.reference.container.size.width.128}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "min-height": {
               "value": "{smc.reference.container.size.height.24}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "max-width": {
               "value": "{smc.reference.container.size.width.400}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "padding-right": {
               "value": "{smc.reference.container.padding.8}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           }
         },
@@ -66,63 +48,43 @@
           "size": {
             "padding-x": {
               "value": "{smc.reference.container.padding.16}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "padding-y": {
               "value": "{smc.reference.container.padding.16}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "border-radius": {
               "value": "{smc.reference.container.border-radius.xs}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "border-left-width": {
               "value": "{smc.reference.container.border-width.xl}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "border-right-width": {
               "value": "{smc.reference.container.border-width.none}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "border-top-width": {
               "value": "{smc.reference.container.border-width.none}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "border-bottom-width": {
               "value": "{smc.reference.container.border-width.none}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "min-width": {
               "value": "{smc.reference.container.size.width.128}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "max-width": {
               "value": "{smc.reference.container.size.width.400}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "gap": {
               "value": "{smc.reference.container.gap.8}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           }
         },
@@ -130,9 +92,7 @@
           "size": {
             "gap": {
               "value": "{smc.reference.container.gap.4}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           }
         },
@@ -140,21 +100,15 @@
           "size": {
             "padding-left": {
               "value": "{smc.reference.container.padding.4}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "padding-right": {
               "value": "{smc.reference.container.padding.8}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "icon": {
               "value": "{smc.reference.container.icon-nested.md}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           }
         },
@@ -162,15 +116,11 @@
           "size": {
             "padding-right": {
               "value": "{smc.reference.container.padding.32}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             },
             "gap": {
               "value": "{smc.reference.container.gap.12}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           }
         },
@@ -178,9 +128,7 @@
           "size": {
             "icon-button": {
               "value": "{smc.reference.container.icon-nested.sm}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
           }
         },
@@ -188,10 +136,68 @@
           "size": {
             "outline": {
               "value": "{smc.reference.container.focused-outline.size.default}",
-              "type": "dimension",
-              "parent": "comp-size/compact",
-              "description": ""
+              "type": "number"
             }
+          }
+        }
+      },
+      "buttons": {
+        "label": {
+          "typography": {
+            "font-family": {
+              "value": "{smc.reference.typography.font-family.default}",
+              "type": "text"
+            },
+            "font-size": {
+              "value": "{smc.reference.typography.font-size.12}",
+              "type": "number"
+            },
+            "line-height": {
+              "value": "{smc.reference.typography.line-height.12}",
+              "type": "number"
+            },
+            "font-weight": {
+              "value": "{smc.reference.typography.font-weight.Bold}",
+              "type": "number"
+            },
+            "letter-spacing": {
+              "value": "{smc.reference.typography.letter-spacing.default}",
+              "type": "number"
+            }
+          }
+        },
+        "size": {
+          "padding-x": {
+            "value": "{smc.reference.container.padding.8}",
+            "type": "number"
+          },
+          "padding-y": {
+            "value": "{smc.reference.container.padding.6}",
+            "type": "number"
+          },
+          "border-radius": {
+            "value": "{smc.reference.container.border-radius.full}",
+            "type": "number"
+          },
+          "border-width": {
+            "value": "{smc.reference.container.border-width.sm}",
+            "type": "number"
+          },
+          "min-width": {
+            "value": "{smc.reference.container.size.height.24}",
+            "type": "number"
+          },
+          "height": {
+            "value": "{smc.reference.container.size.height.24}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{smc.reference.container.gap.2}",
+            "type": "number"
+          },
+          "icon": {
+            "value": "{smc.reference.container.icon-nested.sm}",
+            "type": "number"
           }
         }
       }
